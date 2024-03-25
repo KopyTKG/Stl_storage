@@ -1,0 +1,14 @@
+*.zip
+*.gcode
+*.txt
+*.pdf
+*.jpeg
+*.svg
+*.jpeg~
+*.jpg
+*.JPG
+*.PNG
+*.png
+*.bak
+*.FCStd1
+/EXPORT
